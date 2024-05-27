@@ -7,7 +7,7 @@ const Contact = () => {
             <a href="https://github.com/Pattarapong1994" target="_blank">
                 <FontAwesomeIcon className='hover:scale-125 hover:text-primaryTitle transition-all' icon={faGithub} />
             </a>
-            <a href="https://www.linkedin.com/">
+            <a href="https://www.linkedin.com/" target="_blank">
                 <FontAwesomeIcon className='hover:scale-125 hover:text-primaryTitle transition-all' icon={faLinkedin} />
             </a>
             <a href="https://www.facebook.com/" target="_blank" >
