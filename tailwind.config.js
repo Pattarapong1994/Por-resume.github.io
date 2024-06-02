@@ -11,7 +11,7 @@ export default {
         primaryContent: "#AC7D88",
         primarySubContent: "#85586F",
         primaryBg: "#643843",
-        primaryBase:"#9d8a9321",
+        primaryBase:"#9d8a9321" 
 
       }
     },
